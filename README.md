@@ -1,1 +1,1 @@
-# Excel_Data_Analysis
+# Excel_Data_Analysis:- Designed and created an Excel sales annual report featuring an interactive dashboard, enabling seamless data analysis and visualization for sales performance evaluation, trend identification, and strategic decision-making. Implemented advanced formulas, conditional formatting, and slicers to enhance user experience and provide actionable insights for driving revenue growth.
